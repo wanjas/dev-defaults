@@ -1,4 +1,1 @@
-{
-  "singleQuote": true,
-  "trailingComma": "all"
-}
+"./prettier/.prettierrc.js"

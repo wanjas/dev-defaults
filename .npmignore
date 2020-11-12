@@ -157,3 +157,6 @@ dist
 .pnp.*
 
 .idea
+LICENSE
+README.md
+.gitignore

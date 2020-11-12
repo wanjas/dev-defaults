@@ -11,10 +11,11 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'prettier',
     'prettier/@typescript-eslint',
-    'plugin:react/recommended',
-    'plugin:react-hooks/recommended',
+
+    /* --- use ./react/.eslintrc.js --- */
+    // 'plugin:react/recommended',
+    // 'plugin:react-hooks/recommended',
   ],
-  root: true,
   env: {
     node: true,
     jest: true,
@@ -44,9 +45,9 @@ module.exports = {
         jsx: 'never',
       },
     ],
-    'react-hooks/rules-of-hooks': 'error', // Checks rules of Hooks
-    'react-hooks/exhaustive-deps': 'warn', // Checks effect dependencies
+    // 'react-hooks/rules-of-hooks': 'error', // Checks rules of Hooks
+    // 'react-hooks/exhaustive-deps': 'warn', // Checks effect dependencies
     'class-methods-use-this': 'warn',
-    'react/prop-types': 'off',
+    // 'react/prop-types': 'off',
   },
 };
