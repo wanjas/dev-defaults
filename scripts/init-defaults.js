@@ -5,6 +5,8 @@ function main() {
   const moduleRoot = path.resolve(__dirname, "..");
   const projectRoot = process.cwd();
 
+  console.log(`Filename: ${require.main.path}`);
+
   console.log(`Module root: ${moduleRoot}`);
   console.log(`Project root: ${projectRoot}`);
 
