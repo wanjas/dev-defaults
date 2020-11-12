@@ -1,0 +1,3 @@
+{
+  "extends": "@wanjas/dev/typescript/tsconfig.json"
+}
