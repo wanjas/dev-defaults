@@ -9,7 +9,7 @@ In `postinstall` script package creates (if not exist) following configs that ex
 * .prettierrc.js
 * tsconfig.json
 
-This files can also be found in `./_default_files` directory.
+These files can also be found in `./_default_files` directory.
 
 Package includes common devDependencies:
 * `typescript`
