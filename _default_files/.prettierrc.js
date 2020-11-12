@@ -1,3 +1,3 @@
 module.exports = {
-  ...require("@wanjas/dev/prettier"),
+  ...require("@wanjas/dev/prettier/.prettierrc.js"),
 };

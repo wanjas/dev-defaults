@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ["@wanjas/dev/eslint"],
+  extends: "./node_modules/@wanjas/dev/eslint/.eslintrc",
 };
