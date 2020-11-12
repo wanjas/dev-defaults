@@ -1,6 +1,6 @@
 {
   "name": "@wanjas/dev",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Defaults for eslint, prettier and tsconfig",
   "main": "index.js",
   "scripts": {
