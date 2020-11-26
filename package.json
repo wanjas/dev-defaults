@@ -2,7 +2,11 @@
   "name": "@wanjas/dev",
   "version": "1.0.7",
   "description": "Defaults for eslint, prettier and tsconfig",
-  "keywords": ["eslint-config", "typescript-config", "eslint with prettier"],
+  "keywords": [
+    "eslint-config",
+    "typescript-config",
+    "eslint with prettier"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -26,9 +30,9 @@
     "jest": ">=26"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.8.1",
-    "@typescript-eslint/parser": "^4.8.1",
-    "eslint": "^7.13.0",
+    "@typescript-eslint/eslint-plugin": "^4.8.2",
+    "@typescript-eslint/parser": "^4.8.2",
+    "eslint": "^7.14.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-airbnb-typescript": "^12.0.0",
@@ -40,11 +44,11 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^3.10.1",
-    "prettier": "^2.1.2",
+    "prettier": "^2.2.0",
     "ts-jest": "^26.4.4",
     "ts-loader": "^8.0.11",
     "ts-node": "^9.0.0",
     "tsconfig-paths": "^3.9.0",
-    "typescript": "^4.0.5"
+    "typescript": "^4.1.2"
   }
 }
