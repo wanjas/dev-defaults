@@ -1,6 +1,6 @@
 {
   "name": "@wanjas/dev",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Defaults for eslint, prettier and tsconfig",
   "keywords": [
     "eslint-config",
