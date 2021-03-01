@@ -10,7 +10,9 @@ module.exports = {
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
     'prettier',
-    'prettier/@typescript-eslint',
+
+    // https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md#version-800-2021-02-21
+    // 'prettier/@typescript-eslint',
 
     /* --- use ./react/.eslintrc.js --- */
     // 'plugin:react/recommended',
